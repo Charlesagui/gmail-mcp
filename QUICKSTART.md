@@ -6,8 +6,8 @@ Get your Secure Gmail MCP server running in 5 minutes!
 
 ### 1. Install & Build
 ```bash
-git clone <repository-url>
-cd secure-gmail-mcp
+git clone https://github.com/Charlesagui/gmail-mcp.git
+cd gmail-mcp
 npm install
 npm run build
 ```
@@ -46,7 +46,7 @@ Add this (update the path):
   "mcpServers": {
     "secure-gmail": {
       "command": "node",
-      "args": ["/absolute/path/to/secure-gmail-mcp/dist/index.js"]
+      "args": ["/absolute/path/to/gmail-mcp/dist/index.js"]
     }
   }
 }

@@ -3,7 +3,7 @@
     "secure-gmail": {
       "command": "node",
       "args": [
-        "/path/to/secure-gmail-mcp/dist/index.js"
+        "/path/to/gmail-mcp/dist/index.js"
       ]
     }
   }

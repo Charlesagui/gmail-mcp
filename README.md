@@ -22,8 +22,8 @@ A secure Model Context Protocol (MCP) server for Gmail integration with Claude D
 
 1. **Clone and setup**:
 ```bash
-git clone <repository-url>
-cd secure-gmail-mcp
+git clone https://github.com/Charlesagui/gmail-mcp.git
+cd gmail-mcp
 npm install
 npm run build
 ```
@@ -71,7 +71,7 @@ npm run auth
   "mcpServers": {
     "secure-gmail": {
       "command": "node",
-      "args": ["/absolute/path/to/secure-gmail-mcp/dist/index.js"]
+      "args": ["/absolute/path/to/gmail-mcp/dist/index.js"]
     }
   }
 }
