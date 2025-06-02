@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "secure-gmail": {
+      "command": "node",
+      "args": [
+        "/path/to/secure-gmail-mcp/dist/index.js"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "secure-gmail-mcp",
+  "version": "1.0.0",
+  "description": "Secure Gmail MCP Server with minimal dependencies and enhanced security",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js",
+    "auth": "node dist/auth.js",
+    "auth-manual": "node dist/auth-manual.js",
+    "get-auth-url-fixed": "node dist/get-auth-url-fixed.js",
+    "save-token": "node dist/save-token.js",
+    "check": "node dist/check-setup.js"
+  },
+  "keywords": ["mcp", "gmail", "email", "secure"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "googleapis": "^144.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
