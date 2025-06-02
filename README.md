@@ -2,6 +2,8 @@
 
 A secure Model Context Protocol (MCP) server for Gmail integration with Claude Desktop, featuring enhanced security and minimal dependencies.
 
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843)
+
 ## 🔒 Security Features
 
 - **Minimal OAuth Scopes**: Only essential Gmail permissions
@@ -168,6 +170,14 @@ If you encounter issues:
 2. Review audit logs: `~/.secure-gmail-mcp/audit.log`
 3. Ensure all prerequisites are met
 4. Open an issue with detailed error information
+
+## ☕ Support the Project
+
+If this MCP server helps you, consider supporting its development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843)
+
+Your support helps maintain and improve this project!
 
 ---
 
