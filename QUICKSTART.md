@@ -2,7 +2,7 @@
 
 Get your Secure Gmail MCP server running in 5 minutes!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843)
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843y)
 
 ## ⚡ Fast Setup
 
@@ -75,4 +75,4 @@ npm run auth
 
 ## ☕ Like this project?
 
-If this helps you, consider [buying me a coffee](https://coff.ee/aguiar843) to support development!
+If this helps you, consider [buying me a coffee](https://coff.ee/aguiar843y) to support development!

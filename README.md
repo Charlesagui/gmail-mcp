@@ -2,7 +2,7 @@
 
 A secure Model Context Protocol (MCP) server for Gmail integration with Claude Desktop, featuring enhanced security and minimal dependencies.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843)
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843y)
 
 ## 🔒 Security Features
 
@@ -175,7 +175,7 @@ If you encounter issues:
 
 If this MCP server helps you, consider supporting its development:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843)
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://coff.ee/aguiar843y)
 
 Your support helps maintain and improve this project!
 
